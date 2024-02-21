@@ -1,0 +1,7 @@
+{
+    "ANSIBLE_MODULE_ARGS": {
+        "name": "nljfc2sql",
+        "vmdk": "c:\\vmware\\nljfc2sql\\nljfc2sql_d.vmdk",
+        "devicehost": "nvme0:1"
+    }
+}

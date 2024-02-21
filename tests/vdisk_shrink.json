@@ -1,0 +1,6 @@
+{
+    "ANSIBLE_MODULE_ARGS": {
+        "vmdk": "c:\\vmware\\test\\disk_d.vmdk",
+        "cmd": "shrink"
+    }
+}
